@@ -1,6 +1,6 @@
 Github scheme
 ---
 
-GitHub scheme for Komodo. Very bright and very light.
+GitHub scheme for Komodo.
 
 ![screen](screen.png)
